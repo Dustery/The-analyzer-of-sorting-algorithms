@@ -1,0 +1,10 @@
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\bin\Debug\SortowanieAlgorytmow.exe.config
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\bin\Debug\SortowanieAlgorytmow.exe
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\bin\Debug\SortowanieAlgorytmow.pdb
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\Project1Kostynskyi15267.csprojResolveAssemblyReference.cache
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\SortowanieAlgorytmow.Form1.resources
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\SortowanieAlgorytmow.Properties.Resources.resources
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\Project1Kostynskyi15267.csproj.GenerateResource.cache
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\Project1Kostynskyi15267.csproj.CoreCompileInputs.cache
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\SortowanieAlgorytmow.exe
+C:\Users\abrit\Desktop\Project1Kostynskyi15267\Project1Kostynskyi15267\obj\Debug\SortowanieAlgorytmow.pdb

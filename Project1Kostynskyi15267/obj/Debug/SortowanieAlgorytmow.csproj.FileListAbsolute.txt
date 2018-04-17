@@ -1,0 +1,10 @@
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\bin\Debug\SortowanieAlgorytmow.exe.config
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\bin\Debug\SortowanieAlgorytmow.exe
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\bin\Debug\SortowanieAlgorytmow.pdb
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.csprojResolveAssemblyReference.cache
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.Form1.resources
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.Properties.Resources.resources
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.csproj.GenerateResource.cache
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.csproj.CoreCompileInputs.cache
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.exe
+c:\users\abrit\source\repos\SortowanieAlgorytmow\SortowanieAlgorytmow\obj\Debug\SortowanieAlgorytmow.pdb
